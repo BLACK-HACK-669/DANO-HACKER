@@ -186,9 +186,9 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
-	print "\033[1;32;40m[1] \033[1;33;40m══qof ka hacking"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update toolkan"																														
-	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
+	print "\033[1;32;40m[1] \033[1;33;40m══hacking facebook"	
+	print "\033[1;32;40m[2] \033[1;33;40m══Update toolka"																														
+	print "\033[1;32;40m[0] \033[1;33;40m══Darchwn"
 	pilih()
 
 def pilih():
@@ -225,11 +225,11 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\x1b[1;32;40m[1] \033[1;33;40m══Asxaab tada ka hacking"
-	print "\x1b[1;32;40m[2] \033[1;33;40m══kale Asxaab tiisa ka hacking"
-	print "\x1b[1;32;40m[3] \033[1;33;40m══si toosa oga hacking"
-	print "\x1b[1;32;40m[4] \033[1;33;40m══File ka haysid ka hacking"
-	print "\x1b[1;32;40m[0] \033[1;33;40m══DIb oga noqo"
+	print "\x1b[1;32;40m[1] \033[1;33;40m══Hack Krdne Hawrekant"
+	print "\x1b[1;32;40m[2] \033[1;33;40m══Hack Kardn Ba ID"
+	print "\x1b[1;32;40m[3] \033[1;33;40m══hacking facebook target "
+	print "\x1b[1;32;40m[4] \033[1;33;40m══Hack Kardn Ba Fil ID"
+	print "\x1b[1;32;40m[0] \033[1;33;40m══ChwnaDarwa"
 	pilih_super()
 
 def pilih_super():
@@ -291,10 +291,10 @@ def pilih_super():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
 		print("\r\033[1;32;40m[✺] Bilaabmay\033[1;93m"+o),;sys.stdout.flush();time.sleep(1)
-	print "\n\033[1;94m        ❈     \x1b[1;91mTo Stop Process Press CTRL+Z \033[1;94m    ❈"
+	print "\n\033[1;94m        ❈     \x1b[1;91mBO WASTANDE HERSHAKA CTRL+Z DABGRA  \033[1;94m    ❈"
 	print "   \033[1;31;48m●══════════════════════FIKRADO══════════════════════●"
 
-	jalan('            \033[1;91mYaxye waa uu bilaaway inu qofka ka hacking gareeyo...')
+	jalan('            \033[1;91mHACK KRDN DASTE PEKRD TKAYA CHWRWAN BA ...')
 	print  "  \033[1;36;48m ●══════════════════════HACKER══════════════════════●" 
 
 	def main(arg):
