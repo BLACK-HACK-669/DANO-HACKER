@@ -186,8 +186,8 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] ID  \033[1;34;40m: "+id+"        \033[1;36;40m║"
 	print "   \033[1;36;40m      ║\033[1;34;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
-	print "\033[1;32;40m[1] \033[1;33;40m══qof ka hacking"	
-	print "\033[1;32;40m[2] \033[1;33;40m══Update toolkan"																														
+	print "\033[1;32;40m[1] \033[1;33;40m══Hack krdn"	
+	print "\033[1;32;40m[2] \033[1;33;40m══Update toolka"																														
 	print "\033[1;32;40m[0] \033[1;33;40m══Log out"
 	pilih()
 
@@ -225,11 +225,11 @@ def super():
 		login()
 	os.system('clear')
 	print logo
-	print "\x1b[1;32;40m[1] \033[1;33;40m══Asxaab tada ka hacking"
-	print "\x1b[1;32;40m[2] \033[1;33;40m══kale Asxaab tiisa ka hacking"
-	print "\x1b[1;32;40m[3] \033[1;33;40m══si toosa oga hacking"
-	print "\x1b[1;32;40m[4] \033[1;33;40m══File ka haysid ka hacking"
-	print "\x1b[1;32;40m[0] \033[1;33;40m══DIb oga noqo"
+	print "\x1b[1;32;40m[1] \033[1;33;40m══Hack Krdne Hawrekant"
+	print "\x1b[1;32;40m[2] \033[1;33;40m══Hack Krdn Ba ID"
+	print "\x1b[1;32;40m[3] \033[1;33;40m══Hack Facebook Target"
+	print "\x1b[1;32;40m[4] \033[1;33;40m══Hack Krdne Fil ID"
+	print "\x1b[1;32;40m[0] \033[1;33;40m══Garanw BO $HOME"
 	pilih_super()
 
 def pilih_super():
