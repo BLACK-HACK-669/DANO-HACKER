@@ -2,7 +2,7 @@
 
 Termux
 
-apt-git update
+apt-get update
 
 pkg install git
 
