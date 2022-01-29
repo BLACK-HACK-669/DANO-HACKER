@@ -104,7 +104,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[☆] \x1b[1;91mFACEBOOK DAXL BKA BO KADNAWE TOOLKA \x1b[1;96m[☆]' )
+		print('\033[1;96m[☆] \x1b[1;91mFACEBOOK DAXL BKA BO KRADNAWE TOOLKA\x1b[1;96m[☆]' )
 		id = raw_input('\033[1;96m[+] \x1b[0;34mID/Email/Token/Sms \x1b[1;91m: \x1b[1;92m')
 		pwd = raw_input('\033[1;96m[+] \x1b[0;34mPassword \x1b[1;91m: \x1b[1;92m')
 		tik()
@@ -226,9 +226,9 @@ def super():
 	os.system('clear')
 	print logo
 	print "\x1b[1;32;40m[1] \033[1;33;40m══Asxaab tada ka hacking"
-	print "\x1b[1;32;40m[2] \033[1;33;40m══Qof kale Asxaab tiisa ka hacking"
-	print "\x1b[1;32;40m[3] \033[1;33;40m══Qof si toosa oga hacking"
-	print "\x1b[1;32;40m[4] \033[1;33;40m══QOF File ka haysid ka hacking"
+	print "\x1b[1;32;40m[2] \033[1;33;40m══kale Asxaab tiisa ka hacking"
+	print "\x1b[1;32;40m[3] \033[1;33;40m══si toosa oga hacking"
+	print "\x1b[1;32;40m[4] \033[1;33;40m══File ka haysid ka hacking"
 	print "\x1b[1;32;40m[0] \033[1;33;40m══DIb oga noqo"
 	pilih_super()
 
