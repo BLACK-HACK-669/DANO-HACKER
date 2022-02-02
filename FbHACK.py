@@ -73,7 +73,7 @@ logo = """
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(2)
+		print("\r\033[1;96m[●] \x1b[1;93mSedang masuk \x1b[1;97m"+o),;sys.stdout.flush();time.sleep(21)
 
 
 back = 0
@@ -141,7 +141,7 @@ def login():
 				print"\n\x1b[1;91m[!] nio internet la aan ba ku haysa"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\x1b[1;92m[!] WAA LAGA XAYIRA EE MID KALE GALI")
+			print("\n\x1b[1;92m[!] password yan Yan ID halaya Tkaya Hawl Bdawa")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
